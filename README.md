@@ -3,7 +3,7 @@
 Encode to Filmic Log Base Encoding, and apply the contrasts as you desire. Do not try to use EXRs as it will be the wrong transform currently.
 ## What is it?
 This is a repository to use [Filmic](https://github.com/sobotka/filmic-blender) in Resolve. It will allow you to
-work seamlessly in Resolve wiith Filmic Base Log Encoded files.
+work seamlessly in Resolve with Filmic Base Log Encoded files.
 ## How is it used?
 1. Download this repository via zip or Git.
 2. Create a unique directory `Filmic` under your Resolve LUTs director. This is accessible via
